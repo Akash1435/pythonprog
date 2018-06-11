@@ -1,4 +1,4 @@
-a = input("enter an integer")
+a = input()
 if(a>0):
 	print '\npositive'
 elif(a==0):

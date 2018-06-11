@@ -1,9 +1,9 @@
 n = input()
 if(n%400==0):
-	print 'leap year'
+	print 'yes'
 elif(n%100==0):
-	print 'not a leap year'
+	print 'no'
 elif(n%4==0):
-        print 'leap year'
+        print 'yes'
 else:
-        print 'not a leap year/'
+        print 'no'

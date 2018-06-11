@@ -1,7 +1,7 @@
 a = input()
 if(a>0):
-	print '\npositive'
+	print 'Positive'
 elif(a==0):
-	print '\nzero'
+	print 'Zero'
 else:
-	print '\nnegative'
+	print 'Negative'

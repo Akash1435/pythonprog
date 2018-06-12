@@ -1,6 +1,9 @@
-a = input("enter an integer")
-if(a%2==0):
-	print '\nThe given number is even'
+a = input()
+if(a>0):
+	if(a%2==0):
+		print 'even'
+	else:
+		print 'odd'
 else:
-	print '\nThe given number is odd'
+	print 'invalid'
 	

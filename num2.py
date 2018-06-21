@@ -9,7 +9,7 @@ for i in set(num):
     if(num.count(i)==1):
         list1.append(i)
         list1.sort(reverse=True)
-if(num.count(i)==5):
+if(i=0 for i in list1):
     print '0'
 print ''.join(str(x) for x in list1)
 
